@@ -4,6 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/Machado28/Padronizando-mensagens-de-commit-em-equipe.git",
   "author": "Machado28 <ulundoantonio@gmail.com>",
-  "license": "MIT"
-   
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.1",
+    "@commitlint/config-conventional": "^16.2.1"
+  }
 }
