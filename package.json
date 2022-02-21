@@ -1,0 +1,9 @@
+{
+  "name": "Padronizando-commites-do-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Machado28/Padronizando-mensagens-de-commit-em-equipe.git",
+  "author": "Machado28 <ulundoantonio@gmail.com>",
+  "license": "MIT"
+   
+}
