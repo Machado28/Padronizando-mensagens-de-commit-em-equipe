@@ -1,1 +1,1 @@
-"# Padronizando-mensagens-de-commit-em-equipe" 
+"# Padronizando-mensagens-de-commit-do-git-em-equipe" 
